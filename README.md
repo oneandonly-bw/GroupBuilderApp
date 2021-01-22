@@ -1,1 +1,1 @@
-# GroupBuilderApp
+See README.txt
